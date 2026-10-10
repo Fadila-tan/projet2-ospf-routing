@@ -79,3 +79,6 @@ sans intervention manuelle.
 - Plusieurs areas (OSPF multi-area)
 - Redistribution de route par défaut vers un routeur Internet
 - Ajustement des coûts pour contrôler le chemin préféré
+- ![Voisins](screenshots/02-ospf-neighbor.png)
+
+R1 forme deux adjacences à l'état FULL (R2 et R3).
